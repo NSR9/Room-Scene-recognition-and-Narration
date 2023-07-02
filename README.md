@@ -11,14 +11,13 @@ This project utilizes Roboflow API and image recognition models to identify the 
 ## Installation
 
 1. Clone the repository:
-
-   ```bash
+```bash
    git clone https://github.com/your-username/your-repository.git
-   ```
+```
 2.Install the required libraries:
-   ```bash
+```bash
    pip install pyttsx3 roboflow
-   ```
+```
 ## Setting Up Roboflow
 
 Setting up Roboflow is simple:
