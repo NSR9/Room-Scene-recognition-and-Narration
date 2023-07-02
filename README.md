@@ -34,11 +34,7 @@ api_key = "YOUR_ROBOFLOW_API_KEY"
 rf = roboflow.Roboflow(api_key)
 ```
 ## Usage
-1. Obtain an API key from Roboflow and replace 'CYzBf27ICRht54nH9vqB' with your API key:
-   ```python
-   api_key = "YOUR_API_KEY"
-   ```
-2. Run the narrate_room() function with the path to your image file:
+ Run the narrate_room() function with the path to your image file:
    ```python
    image = "path/to/your/image.jpg"
    room = get_room_type(image)
