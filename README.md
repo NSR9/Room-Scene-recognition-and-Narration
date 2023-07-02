@@ -24,8 +24,6 @@ Setting up Roboflow is simple:
 
 1. Create an account on Roboflow.
 2. After signing up and logging in, click on the "Get API Key" button on the dashboard to get your API key.
-3. Set up the 'mit-indoor-scene-recognition' project on your Roboflow account. This project is used for room type recognition.
-
 You will then be able to use the Roboflow API in your Python scripts by initializing it with your API key:
 
 ```python
